@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+title: Allen Snook's Blog
+author: allendavidsnook
+email: allen@allensnook.com
+theme: minima
+description: Engineering the Internet of All the Things
