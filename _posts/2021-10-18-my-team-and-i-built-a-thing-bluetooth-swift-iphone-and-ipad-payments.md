@@ -1,5 +1,5 @@
 ---
-title: My Team and I Built A Thing: Bluetooth + Swift = iPhone and iPad Payments!
+title: My Team and I Built A Thing
 ---
 TLDR: In-Person Payments for WooCommerce is Live
 
