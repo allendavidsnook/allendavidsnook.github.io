@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: ! 'Allen aka PandamusRex or Simply "Panda"'
 ---
 
-I'm glad you are here. I plan to talk about many things.
+Husband, Father, Senior iOS / Mobile Software / Hardware and RF Engineer, Motorcyclist, Electric Vehicle Evangelist, Virginia Tech Hokie (BSEE '92), University of Washingon Husky (MSEE '22), Furry
