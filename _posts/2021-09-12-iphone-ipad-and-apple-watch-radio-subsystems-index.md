@@ -30,7 +30,7 @@ UWB (Ultra Wide Band)
 
 
 
-Availability: iPhone 11 or 12, Apple Watch Series 6Range: 50 mFrequency: 3.1 &#8211; 10.6 GHzData Rate: 100 MbpsDocs: Nearby Interaction
+Availability: iPhone 11 or 12, Apple Watch Series 6Range: 50 mFrequency: 3.1 - 10.6 GHzData Rate: 100 MbpsDocs: Nearby Interaction
 
 
 
@@ -46,7 +46,7 @@ Cellular: 5G
 
 
 
-Availability: iPhone, iPads (if equipped)Range: 300 mFrequency: 30 GHz &#8211; 300 GHzData Rate: 70 &#8211; 400 Mbps or faster
+Availability: iPhone, iPads (if equipped)Range: 300 mFrequency: 30 GHz - 300 GHzData Rate: 70 - 400 Mbps or faster
 
 
 
@@ -54,7 +54,7 @@ Cellular: 4G, LTE
 
 
 
-Availability: iPhone, iPads (if equipped), Apple Watch (if equipped)Range: 15 kmFrequency: 700 MHz, 1700 &#8211; 2100 MHz, 1900 MHz, 2500 &#8211; 2700 MHzData Rate: 10 &#8211; 50 Mbps or faster
+Availability: iPhone, iPads (if equipped), Apple Watch (if equipped)Range: 15 kmFrequency: 700 MHz, 1700 - 2100 MHz, 1900 MHz, 2500 - 2700 MHzData Rate: 10 - 50 Mbps or faster
 
 
 

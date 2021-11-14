@@ -6,11 +6,11 @@ TLDR: In-Person Payments for WooCommerce is Live
 
 
 
-A few years back, I drafted an unusual multi-year proposal for my small team at Automattic (the parent company of the open source DIY e-commerce platform known as WooCommerce ) &#8212; that we would integrate hardware into our apps and systems so our online merchants could expand into in-person payments. That same year my team and I launched a shipping labels printer integration with EasyPost and the United States Postal Service (USPS) optimized for the USB based Dymo LabelWriter 4XL. Now I am happy to announce another piece of hardware&#8230;
+A few years back, I drafted an unusual multi-year proposal for my small team at Automattic (the parent company of the open source DIY e-commerce platform known as WooCommerce ) &#8212; that we would integrate hardware into our apps and systems so our online merchants could expand into in-person payments. That same year my team and I launched a shipping labels printer integration with EasyPost and the United States Postal Service (USPS) optimized for the USB based Dymo LabelWriter 4XL. Now I am happy to announce another piece of hardware...
 
 
 
-Today we launch In-Person Payments for WooCommerce Payments &#8211; allowing our merchant to get started with in-person card payments with an affordable, simple, super portable Bluetooth card reader backed by Stripe 🙂 It looks like this:
+Today we launch In-Person Payments for WooCommerce Payments - allowing our merchant to get started with in-person card payments with an affordable, simple, super portable Bluetooth card reader backed by Stripe 🙂 It looks like this:
 
 <img src="https://live.staticflickr.com/65535/51677164402_7554782104_k.jpg"/>
 
@@ -22,7 +22,7 @@ We’ve started with Stripe’s BBPOS Chipper 2X BT Bluetooth card reader. It’
 
 
 
-Our challenges included integrating reader discovery, connecting, multiple reader management, providing Over the Air (OTA) software updates to the reader, displaying messages in our app from the reader (again, it’s headless) and integrating all that over the Internet to Stripe, our backend and our merchants’ backends (we don’t have a single cloud backend &#8211; we don’t control much of the backend &#8211; legendary mode enabled!)
+Our challenges included integrating reader discovery, connecting, multiple reader management, providing Over the Air (OTA) software updates to the reader, displaying messages in our app from the reader (again, it’s headless) and integrating all that over the Internet to Stripe, our backend and our merchants’ backends (we don’t have a single cloud backend - we don’t control much of the backend - legendary mode enabled!)
 
 
 
@@ -52,7 +52,7 @@ We ended up having the card reader store hold a reference to a card reader servi
 
 
 
-We’re also recommending a capable (although expensive) battery powered portable receipt printer from Brother &#8211; the Brother RJ-4250WB-L &#8211; it was surprising how few battery powered WiFi Direct printers are on the market. We’re supporting WiFi and WiFi direct for now, but this printer also supports Bluetooth connections and has an SDK for them, so integrating finer control of this versatile printer is an option for us. It was a pleasure working with Brother engineering with this printer selection as well.
+We’re also recommending a capable (although expensive) battery powered portable receipt printer from Brother - the Brother RJ-4250WB-L - it was surprising how few battery powered WiFi Direct printers are on the market. We’re supporting WiFi and WiFi direct for now, but this printer also supports Bluetooth connections and has an SDK for them, so integrating finer control of this versatile printer is an option for us. It was a pleasure working with Brother engineering with this printer selection as well.
 
 
 
@@ -86,4 +86,4 @@ If you’re interested in seeing the Swift code and work involved in integrating
 
 
 
-And&#8230; if you’re looking, we’re fully remote (another challenge for hardware work) and hiring https://automattic.com/work-with-us/! We have open positions for senior engineers on both our iOS and Android e-commerce apps https://automattic.com/work-with-us/job/senior-mobile-engineers-woocommerce-android-ios/
+And... if you’re looking, we’re fully remote (another challenge for hardware work) and hiring https://automattic.com/work-with-us/! We have open positions for senior engineers on both our iOS and Android e-commerce apps https://automattic.com/work-with-us/job/senior-mobile-engineers-woocommerce-android-ios/

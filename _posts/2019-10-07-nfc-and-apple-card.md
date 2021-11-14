@@ -2,7 +2,7 @@
 title: NFC and Apple Card
 ---
 
-When you get your Apple Card, you&#8217;re invited to hold your phone near the card to activate it. I wondered if it was communicating with the card or something in the packaging.
+When you get your Apple Card, you're invited to hold your phone near the card to activate it. I wondered if it was communicating with the card or something in the packaging.
 
 
 
@@ -18,7 +18,7 @@ One destructive outburst later, I had my answer. An NFC device inside the packag
 
 
 
-A quick download of the &#8220;Hold&#8221; app from the iOS store reveals the simple URL the NFC device prompts the phone to access (and then activate the card):
+A quick download of the "Hold" app from the iOS store reveals the simple URL the NFC device prompts the phone to access (and then activate the card):
 
 
 

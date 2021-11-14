@@ -2,7 +2,7 @@
 title: I Got a LiveWire!
 ---
 
-It&#8217;s a dream come true! I picked up &#8220;Elvira&#8221; last weekend at Emerald City Harley. She&#8217;s a brand new black Harley Davidson LiveWire and a thrill to ride.
+It's a dream come true! I picked up "Elvira" last weekend at Emerald City Harley. She's a brand new black Harley Davidson LiveWire and a thrill to ride.
 
 
 
@@ -14,8 +14,8 @@ So quiet, so fast, so responsive. With elements from all my beloved bikes of the
 
 
 
-I&#8217;ll be posting plenty on this bike and our adventures. Zoom zoom!
+I'll be posting plenty on this bike and our adventures. Zoom zoom!
 
 
 
-PS: I&#8217;ve updated my previous post on the LiveWire with a gallery from the demo rides. Enjoy!
+PS: I've updated my previous post on the LiveWire with a gallery from the demo rides. Enjoy!

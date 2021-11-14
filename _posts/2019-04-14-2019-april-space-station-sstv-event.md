@@ -2,7 +2,7 @@
 title: 2019 April Space Station SSTV Event
 ---
 
-This past weekend, I was excited to see that the cosmonauts on the Space Station were commemorating Yuri Gagarin&#8217;s flight into space with a special Slow Scan Television (SSTV) broadcast. I hadn&#8217;t set up the antenna since we moved into our new home, so I took this as the perfect opportunity to do so.
+This past weekend, I was excited to see that the cosmonauts on the Space Station were commemorating Yuri Gagarin's flight into space with a special Slow Scan Television (SSTV) broadcast. I hadn't set up the antenna since we moved into our new home, so I took this as the perfect opportunity to do so.
 
 
 

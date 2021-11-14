@@ -18,11 +18,11 @@ A bit of quick googling finds 70900801 is “INSTR,CLSTR,DIGITAL” (Instrument,
 
 
 
-But it’s that second bit of information printed on the Instrument Model &#8211; the FCC ID &#8211; that’s more useful to me however for figuring out the Bluetooth flaws. (I was surprised I could NOT find this in the motorcycle&#8217;s manual, btw.)
+But it’s that second bit of information printed on the Instrument Model - the FCC ID - that’s more useful to me however for figuring out the Bluetooth flaws. (I was surprised I could NOT find this in the motorcycle's manual, btw.)
 
 
 
-Knowing that FCC ID (we’re doing something similar at work btw &#8211; using FCC IDs to look at the reports for various Bluetooth devices we are working with) leads me to this: Laird Connectivity Bluetooth 4.2 Dual Mode USB HCI Module, Bluetooth 4.2 Dual Mode UART HCI Module BT850 &#8212; the Bluetooth module at the heart of the LiveWire Instrument Module.
+Knowing that FCC ID (we’re doing something similar at work btw - using FCC IDs to look at the reports for various Bluetooth devices we are working with) leads me to this: Laird Connectivity Bluetooth 4.2 Dual Mode USB HCI Module, Bluetooth 4.2 Dual Mode UART HCI Module BT850 &#8212; the Bluetooth module at the heart of the LiveWire Instrument Module.
 
 
 

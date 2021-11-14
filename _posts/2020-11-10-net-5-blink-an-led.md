@@ -2,7 +2,7 @@
 title: .NET 5 + Blink an LED
 ---
 
-Microsoft announced the release of .NET 5 today&#8230; and included an example with the quintessential &#8220;blink an LED&#8221; that is the Hello World of the embedded IoT space. Can&#8217;t wait to try it on one of my development boards.
+Microsoft announced the release of .NET 5 today... and included an example with the quintessential "blink an LED" that is the Hello World of the embedded IoT space. Can't wait to try it on one of my development boards.
 
 
 

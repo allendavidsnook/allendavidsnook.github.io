@@ -2,7 +2,7 @@
 title: A Photogenic Z-Wave Bridge
 ---
 
-We&#8217;re moving away from Z-Wave tech and investing more deeply in Apple HomeKit. Part of that will include using a Raspberry Pi to act as a Z-Wave bridge until we (eventually) replace the Z-Wave devices with devices supported by HomeKit natively.
+We're moving away from Z-Wave tech and investing more deeply in Apple HomeKit. Part of that will include using a Raspberry Pi to act as a Z-Wave bridge until we (eventually) replace the Z-Wave devices with devices supported by HomeKit natively.
 
 
 
@@ -14,7 +14,7 @@ This article covered most of the setup needed to use feh and xscreensaver, altho
 
 
 
-Here&#8217;s what it looks like:
+Here's what it looks like:
 
 
 

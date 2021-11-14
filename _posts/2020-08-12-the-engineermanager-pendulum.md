@@ -2,7 +2,7 @@
 title: The Engineer/Manager Pendulum
 ---
 
-I am so happy I tapped on Episode 27 of the POPCAST this morning. And so glad Dan interviewed Charity and especially the focus of the podcast: her post about the &#8220;Engineer/Manager Pendulum&#8220;
+I am so happy I tapped on Episode 27 of the POPCAST this morning. And so glad Dan interviewed Charity and especially the focus of the podcast: her post about the "Engineer/Manager Pendulum"
 
 
 
@@ -30,7 +30,7 @@ That’s one of the only ways you can achieve the temporary glory of a hybrid m
 
 
 
-I have been on my latest hybrid manager + tech lead gig for a few months shy of two years now &#8211; it&#8217;s not the first time for me by any stretch. It was incredibly validating to hear this swinging back and forth that I do as NORMAL.
+I have been on my latest hybrid manager + tech lead gig for a few months shy of two years now - it's not the first time for me by any stretch. It was incredibly validating to hear this swinging back and forth that I do as NORMAL.
 
 
 

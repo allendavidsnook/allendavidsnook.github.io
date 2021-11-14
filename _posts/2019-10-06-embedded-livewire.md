@@ -2,7 +2,7 @@
 title: Embedded LiveWire
 ---
 
-The e-moto has five processors to manage performance and app-based connectivity, according to HD’s chief engineer for EV Technology, Sean Stanley.TechCrunch, &#8220;Inside Harley-Davidson’s EV shift with a ride on its LiveWire&#8220;
+The e-moto has five processors to manage performance and app-based connectivity, according to HD’s chief engineer for EV Technology, Sean Stanley.TechCrunch, "Inside Harley-Davidson’s EV shift with a ride on its LiveWire"
 
 
 

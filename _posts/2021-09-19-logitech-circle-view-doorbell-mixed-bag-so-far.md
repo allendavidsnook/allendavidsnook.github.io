@@ -20,7 +20,7 @@ But with the hardware settled, things started to go off the rails when dealing w
 to add the accessory to our Home; I got this:
 
 
-Some searching revealed I wasn’t the only one with this problem. I didn’t keep close track at this point, but one of these two things I did got me past that. It was either 1) unplugging the HomePod in the kitchen so that the living room Apple TV could be the “Connected” Home Hub (in the Home app &gt; Home icon &gt; Home Settings &gt; Home Hubs &amp; Bridges or 2) doing a hard reset of the Doorbell (apply external USB power while holding down the doorbell button and keep holding it for 15 seconds)
+Some searching revealed I wasn’t the only one with this problem. I didn’t keep close track at this point, but one of these two things I did got me past that. It was either 1) unplugging the HomePod in the kitchen so that the living room Apple TV could be the “Connected” Home Hub (in the Home app > Home icon > Home Settings > Home Hubs &amp; Bridges or 2) doing a hard reset of the Doorbell (apply external USB power while holding down the doorbell button and keep holding it for 15 seconds)
 
 
 After doing that I was able to add the Doorbell and get video just as a delivery arrived
@@ -29,10 +29,10 @@ After doing that I was able to add the Doorbell and get video just as a delivery
 We even briefly enjoyed seeing a picture-in-picture image of someone who rang the bell appear on our television, thanks to the Apple TV integration. (Unfortunately I did not get a picture of that.)
 
 
-But then back in the weeds again. That picture-in-picture feature hasn’t worked since then, and HomeKit Secure Video won’t set up. We are stuck with “This camera is not set to record.” And one of the HomePods has taken over the Home Hub role again (there are no controls given to set which device acts as the Connected Home Hub &#8211; you get what you get)
+But then back in the weeds again. That picture-in-picture feature hasn’t worked since then, and HomeKit Secure Video won’t set up. We are stuck with “This camera is not set to record.” And one of the HomePods has taken over the Home Hub role again (there are no controls given to set which device acts as the Connected Home Hub - you get what you get)
 
 
-Apparently the next thing to try is turning off our two WiFi connected HomePods and an upstairs WiFi connected AppleTV to avoid them being the “Connected” Home Hub. Or, set up a new 2.4 GHz WiFi for the devices (our Comcast access point doesn’t allow turning off the 5 GHz radio unfortunately, and it shares the same SSID and password as the 2.4 GHz network, which apparently can cause problems.) I don&#8217;t really feel like doing that just yet, so I&#8217;m going to do some more searching.
+Apparently the next thing to try is turning off our two WiFi connected HomePods and an upstairs WiFi connected AppleTV to avoid them being the “Connected” Home Hub. Or, set up a new 2.4 GHz WiFi for the devices (our Comcast access point doesn’t allow turning off the 5 GHz radio unfortunately, and it shares the same SSID and password as the 2.4 GHz network, which apparently can cause problems.) I don't really feel like doing that just yet, so I'm going to do some more searching.
 
 
-So, stay tuned, &#8211; it’s another untidy tale of integrating a new wireless device into a system.
+So, stay tuned, - it’s another untidy tale of integrating a new wireless device into a system.

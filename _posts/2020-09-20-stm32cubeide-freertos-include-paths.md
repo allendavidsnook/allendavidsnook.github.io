@@ -2,7 +2,7 @@
 title: STM32CubeIDE FreeRTOS Include Paths
 ---
 
-This was odd. I&#8217;m noting here so 1) I don&#8217;t forget and 2) in case anyone else runs into this. My STM32CubeIDE 1.4.0 based project was building fine, I used the STM32CubeMX editor to unlink PC13 from the user button since it was limiting my RTC configuration.
+This was odd. I'm noting here so 1) I don't forget and 2) in case anyone else runs into this. My STM32CubeIDE 1.4.0 based project was building fine, I used the STM32CubeMX editor to unlink PC13 from the user button since it was limiting my RTC configuration.
 
 
 
@@ -14,7 +14,7 @@ I added them all back in and the project resumed building normally.
 
 
 
-It is possible this is because I&#8217;ve switched to Windows based development for this project, or it is possibly related to the STM32CubeIDE 1.4.2 update, but I am not certain.
+It is possible this is because I've switched to Windows based development for this project, or it is possibly related to the STM32CubeIDE 1.4.2 update, but I am not certain.
 
 
 
@@ -26,4 +26,4 @@ It is possible this is because I&#8217;ve switched to Windows based development 
 
 
 
-Edit: And, this is odd, on a subsequent &#8220;save&#8221; and &#8220;re-generate&#8221; the relative include paths that had been deleted were restored.
+Edit: And, this is odd, on a subsequent "save" and "re-generate" the relative include paths that had been deleted were restored.

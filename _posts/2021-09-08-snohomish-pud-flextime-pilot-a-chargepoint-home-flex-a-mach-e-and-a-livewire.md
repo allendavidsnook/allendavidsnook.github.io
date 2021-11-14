@@ -2,7 +2,7 @@
 title: Snohomish PUD FlexTime Pilot, a ChargePoint Home Flex, a Mach-E and a LiveWire
 ---
 
-We’re one of 100 households participating in a energy conservation pilot program by our local utility &#8211; the Snohomish PUD. It’s called “FlexTime.” We qualified by agreeing to install a ChargePoint Home Flex charging station for our electric vehicles &#8211; one that allows for charging to be delayed to overnight to reduce demand on the grid.
+We’re one of 100 households participating in a energy conservation pilot program by our local utility - the Snohomish PUD. It’s called “FlexTime.” We qualified by agreeing to install a ChargePoint Home Flex charging station for our electric vehicles - one that allows for charging to be delayed to overnight to reduce demand on the grid.
 
 
 
@@ -38,11 +38,11 @@ And one of the two electric vehicles (a Harley-Davidson LiveWire) plugged in and
 
 
 
-Our 2021 Ford Mach-E is a Standard Range model with a 75.7 kWh battery pack (of which 68 kWh are usable.) It can accept Level 2 charging at a maximum power of 10.5 kW, but on a NEMA 14-50 circuit like we have our ChargePoint Home Flex connected to, continuous draw is limited to 40A, or 9.6 kW (240V x 40A), so the Mach-E would take roughly 8 hours to charge from empty to full. (Charging from empty to full has yet to be needed.) By delaying charging to 10pm, a full charge can completely use Discount Rate power &#8211; the maximum charge would cost 75.7 * 0.08 or $6.06 &#8211; not bad 🙂
+Our 2021 Ford Mach-E is a Standard Range model with a 75.7 kWh battery pack (of which 68 kWh are usable.) It can accept Level 2 charging at a maximum power of 10.5 kW, but on a NEMA 14-50 circuit like we have our ChargePoint Home Flex connected to, continuous draw is limited to 40A, or 9.6 kW (240V x 40A), so the Mach-E would take roughly 8 hours to charge from empty to full. (Charging from empty to full has yet to be needed.) By delaying charging to 10pm, a full charge can completely use Discount Rate power - the maximum charge would cost 75.7 * 0.08 or $6.06 - not bad 🙂
 
 
 
-Our 2020 Harley-Davidson LiveWire can accept Level 2 charging at a much slower maximum power of about 1.4 kW. It has 15.5 kWh battery pack (of which 13.5 kWh are usable.) An empty to full charge of the LiveWire takes about 11 hours, which is longer than the Discount Rate power window, but &#8211; again &#8211; empty to full charges have yet to be needed. The maximum charge would be at most about $1.50, assuming most the charge happened during the Discount Rate period.
+Our 2020 Harley-Davidson LiveWire can accept Level 2 charging at a much slower maximum power of about 1.4 kW. It has 15.5 kWh battery pack (of which 13.5 kWh are usable.) An empty to full charge of the LiveWire takes about 11 hours, which is longer than the Discount Rate power window, but - again - empty to full charges have yet to be needed. The maximum charge would be at most about $1.50, assuming most the charge happened during the Discount Rate period.
 
 
 

@@ -2,7 +2,7 @@
 title: Projects In Progress
 ---
 
-I&#8217;ve added a link to my most recent project&#8230; which is still in progress &#8211; it is an IoT weather station I started developing as part of my MSEE at UW. So happy to be working with embedded devices again.
+I've added a link to my most recent project... which is still in progress - it is an IoT weather station I started developing as part of my MSEE at UW. So happy to be working with embedded devices again.
 
 
-Check out the Projects link in the menu above to learn more. I&#8217;ll be adding more media and details to the repository Wikis soon.
+Check out the Projects link in the menu above to learn more. I'll be adding more media and details to the repository Wikis soon.
