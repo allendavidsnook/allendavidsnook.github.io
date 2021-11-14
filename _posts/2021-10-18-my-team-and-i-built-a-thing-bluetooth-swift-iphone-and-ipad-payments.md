@@ -12,7 +12,7 @@ A few years back, I drafted an unusual multi-year proposal for my small team at 
 
 Today we launch In-Person Payments for WooCommerce Payments &#8211; allowing our merchant to get started with in-person card payments with an affordable, simple, super portable Bluetooth card reader backed by Stripe 🙂 It looks like this:
 
-<img src="https://live.staticflickr.com/65535/51677164402_7554782104_k.jpg" width="2048" height="1486" alt="wcpay_system"/>
+<img src="https://live.staticflickr.com/65535/51677164402_7554782104_k.jpg"/>
 
 I pivoted from an engineering manager and team lead to an engineer again to focus on the technical challenges of integrating the Bluetooth readers and Stripe’s Terminal SDK with iPhones and iPads using Swift. My team and I have been working closely with Stripe engineering on this all year long and today I am happy to say we are opening it up this week to any merchant in the US.
 
