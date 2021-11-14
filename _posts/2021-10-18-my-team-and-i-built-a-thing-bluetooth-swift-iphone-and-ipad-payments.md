@@ -6,7 +6,7 @@ TLDR: In-Person Payments for WooCommerce is Live
 
 
 
-A few years back, I drafted an unusual multi-year proposal for my small team at Automattic (the parent company of the open source DIY e-commerce platform known as WooCommerce ) &#8212; that we would integrate hardware into our apps and systems so our online merchants could expand into in-person payments. That same year my team and I launched a shipping labels printer integration with EasyPost and the United States Postal Service (USPS) optimized for the USB based Dymo LabelWriter 4XL. Now I am happy to announce another piece of hardware...
+A few years back, I drafted an unusual multi-year proposal for my small team at Automattic (the parent company of the open source DIY e-commerce platform known as WooCommerce ) -- that we would integrate hardware into our apps and systems so our online merchants could expand into in-person payments. That same year my team and I launched a shipping labels printer integration with EasyPost and the United States Postal Service (USPS) optimized for the USB based Dymo LabelWriter 4XL. Now I am happy to announce another piece of hardware...
 
 
 

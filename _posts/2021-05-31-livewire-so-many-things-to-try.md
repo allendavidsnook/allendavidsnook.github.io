@@ -14,7 +14,7 @@ From Sultan back to Monroe saw the battery drop just a bit to 69%. I tried out t
 And then I was back to Bothell with 57% or 69 miles of range left.
 
 
-From Sultan to the top of Stevens Pass is 42 highway miles (with that elevation gain too) and unfortunately there are a few Level 1/2 chargers along the way but no fast chargers. Seems like it might be possible (since I can charge a fair bit on the mostly downhill from the pass to Leavenworth &#8212; 35 miles &#8212; but will it be enough - and how much will the highway speeds and elevation gain eat into that?)
+From Sultan to the top of Stevens Pass is 42 highway miles (with that elevation gain too) and unfortunately there are a few Level 1/2 chargers along the way but no fast chargers. Seems like it might be possible (since I can charge a fair bit on the mostly downhill from the pass to Leavenworth -- 35 miles -- but will it be enough - and how much will the highway speeds and elevation gain eat into that?)
 
 
 Net net: clearly more experimentation is called for 🙂

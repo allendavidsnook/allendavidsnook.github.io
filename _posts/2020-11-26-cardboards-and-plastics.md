@@ -10,7 +10,7 @@ They don't have a mobile card reader yet (that's something I can help them with 
 
 
 
-What was remarkable about this trip is that &#8212; after we checked what comics were in that day and they were about to ring up the total &#8212; I asked them to be sure to include "cardboards and plastics" ... quickly earning a chuckle from our adult daughter. "It's bags and boards, Dad," she interjected with a tinge of embarrassment.
+What was remarkable about this trip is that -- after we checked what comics were in that day and they were about to ring up the total -- I asked them to be sure to include "cardboards and plastics" ... quickly earning a chuckle from our adult daughter. "It's bags and boards, Dad," she interjected with a tinge of embarrassment.
 
 
 
