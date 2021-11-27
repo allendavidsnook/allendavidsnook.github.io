@@ -8,3 +8,7 @@ exclude: [tmp/,vendor/,Gemfile,Gemfile.lock]
 sass:
   sass_dir: _sass
 google_analytics: UA-13130172-1
+twitter_username: pandamusrex
+flickr_username: allenreloaded
+instagram_username: pandamusrex
+rss: rss
