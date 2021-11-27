@@ -12,11 +12,45 @@ a, a:hover, a:visited {
 	color: #2a7ae2;
 }
 
-.site-nav .page-link {
-	color: #eee;
+.home {
+	h1.page-heading {
+		display: none;
+	}
+
+	> p:first-of-type {
+		display: none;
+	}
 }
 
-.site-title, .site-title:visited {
+.site-header {
+	border-bottom: none;
+
+	div.wrapper {
+		background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/header.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+		height: 200px;
+	}
+}
+
+.site-footer {
+	border-top: none;
+}
+
+.site-nav {
+	.page-link {
+		color: #eee;
+		margin-right: 10px;
+	}
+}
+
+.site-title, .site-title:hover, .site-title:visited {
 	color: #eee;
+	margin-left: 10px;
+}
+
+.wrapper {
+	padding-left: 0;
+	padding-right: 0;
 }
 
