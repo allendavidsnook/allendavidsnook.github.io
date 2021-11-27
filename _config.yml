@@ -1,8 +1,8 @@
-title: Allen Snook's Blog
-author: allendavidsnook
+title: PandamusRex Writes About Things
+author: PandamusRex
 email: allen@allensnook.com
 theme: minima
-description: Engineering the Internet of All the Things | PFP by AngieWolf
+description: Furries | Music | Microcontrollers | Mobile Engineering | PFP by AngieWolf
 show_excerpts: true
 exclude: [tmp/,vendor/,Gemfile,Gemfile.lock]
 sass:
