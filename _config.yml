@@ -2,7 +2,7 @@ title: Allen Snook's Blog
 author: allendavidsnook
 email: allen@allensnook.com
 theme: minima
-description: Engineering the Internet of All the Things
+description: Engineering the Internet of All the Things | PFP by AngieWolf
 show_excerpts: true
 exclude: [tmp/,vendor/,Gemfile,Gemfile.lock]
 sass:
