@@ -7,3 +7,4 @@ show_excerpts: true
 exclude: [tmp/,vendor/,Gemfile,Gemfile.lock]
 sass:
   sass_dir: _sass
+google_analytics: UA-13130172-1
