@@ -4,5 +4,6 @@ email: allen@allensnook.com
 theme: minima
 description: Engineering the Internet of All the Things
 show_excerpts: true
-minima:
-  skin: dark
+exclude: [tmp/,vendor/,Gemfile,Gemfile.lock]
+sass:
+  sass_dir: _sass

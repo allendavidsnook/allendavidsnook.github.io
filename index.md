@@ -1,4 +1,5 @@
 ---
+layout: home
 title: ! 'Allen aka PandamusRex or Simply "Panda"'
 ---
 

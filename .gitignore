@@ -1,1 +1,11 @@
 .DS_Store
+.bundle/
+vendor/
+.sass-cache/
+Gemfile
+Gemfile.lock
+_layouts/
+_sass/
+_site/
+assets/css/
+assets/minima-social-icons.svg
