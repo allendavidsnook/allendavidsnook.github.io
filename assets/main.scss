@@ -35,7 +35,9 @@ a, a:hover, a:visited {
 }
 
 @media screen and (max-width: 600px) {
-	background-color: #777;
+	.site-nav {
+		background-color: #777;
+	}
 }
 
 
