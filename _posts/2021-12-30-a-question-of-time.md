@@ -9,7 +9,7 @@ Here's a look back at what 2021 brought and a look forward at my intentions for 
 First, 2021...
 
 <p style="text-align: center;">
-<img src="/images/Thinking_PandamusRex.png" width="640">
+<img src="/images/Thinking_PandamusRex.png" width="320">
 </p>
 
 At the beginning of the year, I got Moderna'd. Hard to believe it was that recent. At work I started on a new project with Bluetooth and IoT hardware that helped with [course correcting back to more hardware and electrical engineering work](https://allensnook.com/2020/12/22/back-in-the-engineering-saddle-again.html) At UW, I continued working on my masters, [kicking off a quarter with an AWS and Azure based IoT class that I really loved](https://allensnook.com/2021/03/12/iot-cv-project-demo.html) - possibly the high point of my coursework. Getting out of pure software work and back to my hybird hardware-software roots was and continues to be my top priority.
@@ -19,7 +19,7 @@ I fell in love with [Beastars](https://en.wikipedia.org/wiki/Beastars) and fell 
 Fox-Kitty got a Vespa in the spring and we started riding together. A few weeks after that, [I got my beloved LiveWire electric motorcycle](https://allensnook.com/2021/05/29/i-got-a-livewire.html) - truly the most wonderful bike I've ever owned. I love it so much and it has a lot of fun IoT bits too.
 
 <p style="text-align: center;">
-<img src="/images/Excited_PandamusRex.png" width="640">
+<img src="/images/Excited_PandamusRex.png" width="320">
 </p>
 
 June was SummerCon - the first big event since the pandemic started. It was awesome to meet Katie Sackhoff (Starbuck) face to face. And we traded in both our cars for a Ford Mustang Mach-E electric, that we love. It was fun later in the summer to take "Pretty Pony" to the Wild Horse Wind Farm and charge her from the wind.
@@ -35,7 +35,7 @@ My last year of my masters started in September, with a twist - the wireless com
 I got my panda-wolf fursona drawn for the first time this year, and my [niece](https://www.instagram.com/GeistlyDunce/) created the lovely stickers for "PandamusRex" that you see here shortly thereafter - spiked collar and all.
 
 <p style="text-align: center;">
-<img src="/images/Happy_PandamusRex.png" width="640">
+<img src="/images/Happy_PandamusRex.png" width="320">
 </p>
 
 October brought the UW Dawg Dash (with my crazy but beloved Husky, Ashy, now 2 years old), wrapping up the Bluetooth project at work and Fox-Kitty swapping the older Vespa for a new scooter with up-to-date safety features.
@@ -49,7 +49,7 @@ At some point along the way this year, being non-binary really clicked for me - 
 Health wise, I didn't gain (or lose) any weight, but I'm still heavier than I want. Legs are still weak from so much sitting for my work. Starting to do squats again at the end of the year and I really need to regain the discipline I used to have. Learning industrial dance should help with that too.
 
 <p style="text-align: center;">
-<img src="/images/Scared_PandamusRex.png" width="640">
+<img src="/images/Scared_PandamusRex.png" width="320">
 </p>
 
 Oh, and I fell in love with RuPaul's Drag Race at the end of the year. I wonder why. :) Mostly cheering for the black and goth looks and taking notes on makeup.
