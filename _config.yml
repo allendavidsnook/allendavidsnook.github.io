@@ -1,8 +1,8 @@
-title: The Furrier Transform
+title: "Allen \"Panda\" Snook -- The Furrier Transform"
 author: PandamusRex
 email: allen@allensnook.com
 theme: minima
-description: Furries | Motorcycling | Electric Vehicles | Dark Electronic Music | Wireless IoT | Mobile Engineering | All Things Apple | PFP by AngieWolf
+description: Furries | Motorcycling | Electric Vehicles | Music | Engineering
 show_excerpts: true
 exclude: [tmp/,vendor/,Gemfile,Gemfile.lock]
 sass:
