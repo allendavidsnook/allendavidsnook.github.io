@@ -3,4 +3,4 @@ layout: home
 title: ! 'Home'
 ---
 
-A Furry | Motorcycling | Electric Vehicles | Music | Engineering Blog
+An Engineering, Motorcycling, Electric Vehicles, Dark Music, Furry Blog
