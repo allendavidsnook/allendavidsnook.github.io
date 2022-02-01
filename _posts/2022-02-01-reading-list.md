@@ -5,7 +5,7 @@ title: Reading List for February 1st
 Some the things that have been shared with me or caught my attention in the last week or so. This is very engineering heavy this time.
 
 <p style="text-align: center;">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/allenreloaded/51855144566/" title="Primordial Comic #5 of 6"><img src="https://live.staticflickr.com/65535/51855144566_85db2f89a8_c.jpg" width="800" height="800" alt="Primordial Comic #5 of 6"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/allenreloaded/51855144566/" title="Primordial Comic #5 of 6"><img src="https://live.staticflickr.com/65535/51855144566_85db2f89a8_c.jpg" width="800" height="800" alt="Primordial Comic #5 of 6"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
 
 ## Engineering Related
@@ -21,7 +21,7 @@ Some the things that have been shared with me or caught my attention in the last
 - [Pycom GPy - WiFi, Bluetooth LE and LTE-M](https://www.adafruit.com/product/3612) A new, interesting tri-band microcontroller that's already out of stock.
 - [Seeed partners with Balena to enable container-based application deployment and fleet management for embedded devices](https://www.seeedstudio.com/blog/2022/01/27/seeed-partners-with-balena-to-enable-container-based-application-deployment-and-fleet-management-for-embedded-devices/) At the intersection of IoT and the Cloud.
 
-## Someone Else's Computer
+### Someone Else's Computer
 All things cloud. Lately, I've been refreshing my memory on microservices and containers.
 
 - [Control startup and shutdown order in Compose](https://docs.docker.com/compose/startup-order/)
@@ -35,20 +35,20 @@ All things cloud. Lately, I've been refreshing my memory on microservices and co
 
 ## Not Engineering Related
 
-## Fashion
+### Fashion
 - [Goth Lunar Hoodie](https://lets-be-gothic.com/products/goth-lunar-hoodie) I want this hoodie. I spotted it on DJ Maus (see below in Music) recently.
 
-## Music
+### Music
 - [DJ Maus](https://www.patreon.com/DJmaus) I'm a fan of [Communion After Dark](https://www.communionafterdark.com/) and DJ Maus especially. See always dresses and does makeup with a great goth aesthetic and picks great tracks.
 - [MODEified](https://electrozombies.com/music/downloads/various-artists-modeified-by-7/) I just learned about this series of covers by fans and artists of Depeche Mode. So many good tracks. Some needing more work.
 - [RGB 32-Band Audio Spectrum Visualizer](https://create.arduino.cc/projecthub/janux/rgb-32-band-audio-spectrum-visualizer-0f26e0) I kinda want to build one of these. I miss the audio spectrum analyzer I used to pump Depeche Mode into in college.
 
-## Space Race
+### Space Race
 Yes, this could go under engineering, but it is one of my favorite non-work areas to learn about.
 - [Primordial Comic](https://imagecomics.com/comics/series/primordial) (Cover picture above) I picked up Issue 5 of 6 of this Cold War, Alt-History, Space Race, Anthropomorphic Thriller last week. The final issue comes out on February 16th.
 - [How the Soviets Put a Lander on Venus](https://asianometry.substack.com/p/how-the-soviets-put-a-lander-on-venus)
 
-## Therapy
+### Therapy
 - [13 Problems Firstborn Siblings Can Relate To](https://www.distractify.com/p/oldest-sibling-problems) "Older siblings tend to get parentalized [turned into parents]." Yes, yes I did.
 
 <p style="text-align: center;">
