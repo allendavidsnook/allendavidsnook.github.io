@@ -2,10 +2,10 @@
 title: Reading List for February 1st
 ---
 
-Some the things that have been shared with me or caught my attention in the last week or so. This is very engineering heavy this time.
+Some of the things that have been shared with me or caught my attention in the last week or so. This is very engineering heavy this time.
 
 <p style="text-align: center;">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/allenreloaded/51855144566/" title="Primordial Comic #5 of 6"><img src="https://live.staticflickr.com/65535/51855144566_85db2f89a8_c.jpg" width="800" height="800" alt="Primordial Comic #5 of 6"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/allenreloaded/51855144566/" title="Primordial Comic #5 of 6"><img src="https://live.staticflickr.com/65535/51855144566_85db2f89a8_c.jpg" width="640" height="640" alt="Primordial Comic #5 of 6"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
 
 ## Engineering Related
