@@ -2,7 +2,7 @@
 title: Reading List for February 15th
 ---
 
-I'm starting a new engineering gig soon! And it is my birthday today :) Here's some of the things that have been shared with me or caught my attention in the last week or so. A nice balance of engineering and non-engineering this week.
+I'm starting a new engineering gig soon! (No, despite the Quest picture, it's not at Meta - keeping reading for why a Quest is shown here.) And it is my birthday today :) Here's some of the things that have been shared with me or caught my attention in the last week or so. A nice balance of engineering and non-engineering this week.
 
 <p style="text-align: center;">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/allenreloaded/51883862103/in/dateposted-public/" title="Meta Quest 2"><img src="https://live.staticflickr.com/65535/51883862103_0173640172.jpg" width="375" height="500" alt="Meta Quest 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
