@@ -28,7 +28,7 @@ I wouldn't be a recovering Privacy Panda if I didn't admit I'm a little leery of
 
 And I've already installed Unity to start building my own fursona avatar - because of course I did. The Windows computer is turning out to be useful for more than just MSEE work.
 
-Next week I'll have an update on VR for sure, and I'll have spend more time researching and working with minimum variance acoustic beam-forming (the MSEE project I am working on when I don't have the VR headset on) - I'll give an update on that too. [One of the foundational papers (by Capon) is older than I am](https://ieeexplore.ieee.org/abstract/document/1449208), and that's pretty old. I plan on writing the project in Python and NumPy to make it more interesting (too much MATLAB, which I think could limit the application and impact beyond academia). :P
+Next week I'll have an update on VR for sure, and I'll have spent more time researching and working with minimum variance acoustic beam-forming (the MSEE project I am working on when I don't have the VR headset on) - I'll give an update on that too. [One of the foundational papers (by Capon) is older than I am](https://ieeexplore.ieee.org/abstract/document/1449208), and that's pretty old. I plan on writing the project in Python and NumPy to make it more interesting (instead of MATLAB, which I think could limit the application and impact beyond academia). :P
 
 ## This Week's Reading List
 
@@ -47,7 +47,6 @@ Besides what I've dug into above, here are some of the things that have been sha
 - [Night Club - Die in the Disco - Official Animated Video](https://www.youtube.com/watch?v=R4760pb9ERg) One of my favorite bands released an animated video for one of my favorite songs this past week. Dark disco visuals set to a stompy beat.
 
 - [How to Play Furry VR](https://www.youtube.com/watch?v=V8fnf_BI3uY&t=1s) A fine tutorial on getting set up for Furry VR by FurryFoofi. And Pocari Roo has a detailed tutorial too: [How to Get Your Fursona Into VRChat](https://www.youtube.com/watch?v=mdy3_p6I3bE)
-
 
 <p style="text-align: center;">
 <img src="/images/Excited_PandamusRex.png" width="320">
