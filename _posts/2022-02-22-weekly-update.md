@@ -48,6 +48,10 @@ Besides what I've dug into above, here are some of the things that have been sha
 
 - [How to Play Furry VR](https://www.youtube.com/watch?v=V8fnf_BI3uY&t=1s) A fine tutorial on getting set up for Furry VR by FurryFoofi. And Pocari Roo has a detailed tutorial too: [How to Get Your Fursona Into VRChat](https://www.youtube.com/watch?v=mdy3_p6I3bE)
 
+- [LiveWire S2 Del Mar Middleweight Electric to Debut in Q2 2022](https://www.motorcycle.com/new-model-preview/livewire-s2-del-mar-middleweight-electric-to-debut-in-q2-2022.html) I can't wait to see what the second quarter brings to the LiveWire family. I love my LiveWire so very much.
+
+- [Who Killed Alta? The Tragedy of the Best Electric Motorcycle](https://www.youtube.com/watch?v=_ApPIEnAjns) An interesting look at the fate of a electric dirtbike by Alta.
+
 <p style="text-align: center;">
 <img src="/images/Excited_PandamusRex.png" width="320">
 </p>
