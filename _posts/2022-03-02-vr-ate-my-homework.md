@@ -8,7 +8,7 @@ _I know this steak doesn't exist. I know that when I put it in my mouth, the Mat
  
 I've wrapped up my last few days at my current engineering gig and looking forward to starting my new gig next week. Winter quarter at UW is wrapping up too, and the post title is a bit hyperbolic, but not much. Translating opaque equations and buggy MATLAB code from various academic papers into Python and NumPy is no cake walk and I have two weeks left to get it done.
  
-But I've gone further down the VR rabbit hole too. I got my first gaming rig to drive the Oculus and its an order of magnitude more addictive this way. It's a HP Omen 30L with an AMD Ryzen 7 5800X 8-Core 3.8 GHz CPU, 16 GB of memory, an NVIDIA GeForce RTX 3060 Ti GPU and a 1TB SSD. When the Oculus is connected to it via USB 3.x the system has no trouble keeping up with the intense visuals of [Club Citadel in the Oasis]9https://twitter.com/ZDUnderground/status/1497668352097099777), a delicious virtual goth club in VRChat.
+But I've gone further down the VR rabbit hole too. I got my first gaming rig to drive the Oculus and its an order of magnitude more addictive this way. It's a HP Omen 30L with an AMD Ryzen 7 5800X 8-Core 3.8 GHz CPU, 16 GB of memory, an NVIDIA GeForce RTX 3060 Ti GPU and a 1TB SSD. When the Oculus is connected to it via USB 3.x the system has no trouble keeping up with the intense visuals of [Club Citadel in the Oasis](https://twitter.com/ZDUnderground/status/1497668352097099777), a delicious virtual goth club in VRChat.
  
 And it is delicious.
  
