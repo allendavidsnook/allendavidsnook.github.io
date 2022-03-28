@@ -18,7 +18,7 @@ It's mostly music this time... and I'm going to be brief...
 - Massive Ego (the band) [broke up](https://www.synthpopfanatic.com/news/in-memoriam-massive-ego-breaks-up/) - so sad - seemed like things were just taking off for the them
 - [The Pet Shop Boys and Soft Cell](https://www.youtube.com/watch?v=cv4QNTg1Mps) put out a new song that is lovely and heartbreaking with echoes of 1987's "Always on My Mind" permeating the soundscape
 - [Communion After Dark](https://www.communionafterdark.com/), which I just started following last year, celebrated 14 years of surfacing delicious dark tunes
-- I'm still at VRChat "Visitor" level, but I finally got back to [Sinister Saturday](https://twitter.com/NecroNeko5/status/1499043271032586244) yesterday after a few week absence due to new job, finals, void sitting. It is so good to be back. Maybe I'll make "New User" this week.
+- I'm still at VRChat "Visitor" level, but I finally got back to [Sinister Saturday](https://twitter.com/NecroNeko5/status/1499043271032586244) yesterday after a few week absence due to new job, finals, void sitting. It is so good to be back. So wonderful to see new friends again.
 
 Next week should see a return to longer form writing and some engineering stuff. For now, this is what there is.
 
